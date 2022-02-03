@@ -1,0 +1,22 @@
+{
+  "name": "role-playing-game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cjsmith011/Role-Playing-Game.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cjsmith011/Role-Playing-Game/issues"
+  },
+  "homepage": "https://github.com/cjsmith011/Role-Playing-Game#readme",
+  "devDependencies": {
+    "jest": "^27.4.7"
+  }
+}
